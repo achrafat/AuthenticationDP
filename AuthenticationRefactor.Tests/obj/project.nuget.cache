@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljkFGaDWCBUj9ui/07NvEEjhksaL9V+r9ffcM0fhsARZNQl1zZx1aXeyC1hSsbpJv/SRuWwET8FP5vFJvCcgMA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\athra\\Bureau\\AuthentificationRefactor\\AuthenticationRefactor.Tests\\AuthenticationRefactor.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\athra\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\microsoft.net.test.sdk\\16.2.0\\microsoft.net.test.sdk.16.2.0.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\athra\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.1\\xunit.runner.visualstudio.2.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet AuthenticationRefactor n'est pas compatible avec net472 (.NETFramework,Version=v4.7.2). Le projet AuthenticationRefactor prend en charge : net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "AuthenticationRefactor",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet AuthenticationRefactor n'est pas compatible avec net472 (.NETFramework,Version=v4.7.2) / win. Le projet AuthenticationRefactor prend en charge : net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "AuthenticationRefactor",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet AuthenticationRefactor n'est pas compatible avec net472 (.NETFramework,Version=v4.7.2) / win-x64. Le projet AuthenticationRefactor prend en charge : net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "AuthenticationRefactor",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Le projet AuthenticationRefactor n'est pas compatible avec net472 (.NETFramework,Version=v4.7.2) / win-x86. Le projet AuthenticationRefactor prend en charge : net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "AuthenticationRefactor",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

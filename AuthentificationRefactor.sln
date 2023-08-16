@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationRefactor", "AuthentificationRefactor\AuthenticationRefactor.csproj", "{957F9E7C-ABA6-4DFA-A507-C17227AC451B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationRefactorTest.Tests", "AuthenticationRefactorTest.Tests\AuthenticationRefactorTest.Tests.csproj", "{FBFBB1BE-8CFC-46C2-88E7-AFB30630942E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C24D30D-3073-4C18-9099-24352D76E121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957F9E7C-ABA6-4DFA-A507-C17227AC451B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957F9E7C-ABA6-4DFA-A507-C17227AC451B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957F9E7C-ABA6-4DFA-A507-C17227AC451B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957F9E7C-ABA6-4DFA-A507-C17227AC451B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFBB1BE-8CFC-46C2-88E7-AFB30630942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFBB1BE-8CFC-46C2-88E7-AFB30630942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFBB1BE-8CFC-46C2-88E7-AFB30630942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFBB1BE-8CFC-46C2-88E7-AFB30630942E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075BE752-B399-412E-B322-10B8EA922AE0}
+	EndGlobalSection
+EndGlobal
